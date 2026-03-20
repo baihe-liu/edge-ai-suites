@@ -3,7 +3,7 @@
 Pi0.5 with Real-Time Chunking
 #############################
 
-π₀.₅ (Pi0.5) is a Vision-Language-Action (VLA) model architecture designed by `Physical Intelligence <https://www.pi.website/>`_. It is built upon the PaliGemma VLM backbone, integrating a SigLIP vision encoder (So400m) with a Gemma language model base (e.g., 2.6B parameters) to process multimodal inputs.
+π₀.₅ (Pi0.5) is a Vision-Language-Action (VLA) model architecture designed by `Physical Intelligence <https://www.pi.website/>`__. It is built upon the PaliGemma VLM backbone, integrating a SigLIP vision encoder (So400m) with a Gemma language model base (e.g., 2.6B parameters) to process multimodal inputs.
 
 Architecturally, π₀.₅ distinguishes itself through a specialized "Action Expert" head — a smaller parameter model (e.g., Gemma 300M) — that generates continuous actions using Flow Matching. Unlike traditional policy heads, this design solves an Ordinary Differential Equation (ODE) from noise to actions, enabling high-precision control.
 
