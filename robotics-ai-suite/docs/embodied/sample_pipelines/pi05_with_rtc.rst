@@ -101,7 +101,7 @@ To convert the standard Pi05 model to OpenVINO IR (without RTC support), use the
 
 .. attention::
 
-   Using the Pi0.5 model in LeRobot will automatically download the `google/paligemma-3b-pt-224 <https://huggingface.co/google/paligemma-3b-pt-224>`_ from Hugging Face. Due to author restrictions, downloading the model requires logging into your Hugging Face account. 
+   Using the Pi0.5 model in LeRobot will automatically download the `google/paligemma-3b-pt-224 <https://huggingface.co/google/paligemma-3b-pt-224>`__ from Hugging Face. Due to author restrictions, downloading the model requires logging into your Hugging Face account. 
    If you encounter download errors, follow the `instructions <https://huggingface.co/docs/huggingface_hub/quick-start#authentication>`__ on how to log in and authorize your account.
 
 Examples (``uv``):
