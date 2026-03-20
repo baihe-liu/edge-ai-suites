@@ -37,7 +37,7 @@ This project demonstrates an implementation of Pi0.5 + RTC using the OpenVINO to
 Installation
 ============
 
-This project extends the open-source project `LeRobot <https://github.com/huggingface/lerobot>`_ to provide OpenVINO acceleration and Real-Time Chunking (RTC) features on Intel compute platforms. To set up the environment, you need to initialize and patch the submodule:
+This project extends the open-source project `LeRobot <https://github.com/huggingface/lerobot>`__ to provide OpenVINO acceleration and Real-Time Chunking (RTC) features on Intel compute platforms. To set up the environment, you need to initialize and patch the submodule:
 
 .. code-block:: bash
 
