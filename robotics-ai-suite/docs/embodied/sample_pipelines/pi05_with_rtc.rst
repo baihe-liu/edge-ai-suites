@@ -30,7 +30,7 @@ The synergy between Pi0.5 and RTC enables sophisticated generalist control on st
    :width: 85%
    :align: center
 
-*(Figure source:* `RTC Paper <https://arxiv.org/abs/2506.07339>`_ *Real-Time Execution of Action Chunking Flow Policies)*
+*(Figure source:* `RTC Paper <https://arxiv.org/abs/2506.07339>`__ *Real-Time Execution of Action Chunking Flow Policies)*
 
 This project demonstrates an implementation of Pi0.5 + RTC using the OpenVINO toolkit, specifically accelerating inference on Intel platforms. It provides a comprehensive end-to-end pipeline, covering both MuJoCo simulation for policy validation and a modular workflow for deployment on real ALOHA robots.
 
